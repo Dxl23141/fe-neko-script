@@ -2,7 +2,7 @@
 -- Tail that CAN be used https://web.roblox.com/catalog/4645440842/Plain-White-Cat-Tail
 -- For updates on script join this server
 -- https://discord.gg/ad7WVB6Bxf
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Reanimation.lua"))()
 
 local NotificationBindable = Instance.new("BindableFunction")
 local Msgreq = function(Title,Text,Duration,Button1Text,Button2Text)
